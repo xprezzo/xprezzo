@@ -1,3 +1,5 @@
+![Xprezzo](https://xprezzo.org/logo.png)
+
 # Xprezzo
 
 The most updated MVC web framework for NodeJS
