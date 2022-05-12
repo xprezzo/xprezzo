@@ -1,6 +1,6 @@
 /*!
  * xprezzo
- * Copyright(c) 2020 Ben Ajenoui
+ * Copyright(c) 2022 Cloudgen Wong <cloudgen.wong@gmail.com>
  * MIT Licensed
  */
 

@@ -12,13 +12,12 @@ Desktop.ini
 .directory
 *~
 
-
 # npm
 node_modules
 package-lock.json
 *.log
 *.gz
-
+yarn.lock
 
 # Coveralls
 coverage

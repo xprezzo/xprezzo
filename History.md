@@ -1,3 +1,29 @@
+1.1.3 / 2022-05-12
+==================
+
+  * depds updated
+  * depds xprezzo-buffer updated to 1.1.2
+  * depds xprezzo-content-type updated to 1.1.1
+  * depds xprezzo-finalhandler updated to 1.1.3
+  * depds xprezzo-json-parser updated to 1.1.2
+  * depds xprezzo-on-finished updated to 1.1.2
+  * depds xprezzo-querystring updated to 1.1.0
+  * depds xprezzo-raw-parser updated to 1.1.2
+  * depds xprezzo-serve-static updated to 1.1.1
+  * depds xprezzo-setprototypeof updated to 1.1.2
+  * depds xprezzo-text-parser updated to 1.1.2
+  * depds xprezzo-typeis updated to 1.1.0
+  * depds xprezzo-urlencoded-parser updated to 1.1.2
+  * depds xprezzo-cookie-session updated to 1.1.1
+  * depds xprezzo-cookie-parser updated to 1.1.2
+  * depds xprezzo-file-upload updated to 1.1.1
+  * depds xprezzo-logger-factory updated to 1.1.2
+  * depds xprezzo-session updated to 1.1.2
+  * depds eslint updated to 8.15.0
+  * depds eslint-plugin-markdown update to 2.2.1
+  * depds supertest updated to 5.0.0 (Not support 6.0.0)
+  * depds mocha updated to 10.0.0
+
 1.1.2 / 2020-11-03
 ==================
 
